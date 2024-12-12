@@ -1,0 +1,23 @@
+1、无线设备的默认地址 ：
+
+AC：10.x版本没有默认地址，11.x新版本默认地址192.168.110.1。
+
+AP：默认地址192.168.110.1（10.x 173487之前的P2版本是192.168.1.1）
+
+WALL-AP或者有第二个LAN口的AP，胖模式情况下，地址如下：
+
+Fit模式下，LAN口和uplink口IP地址均为192.168.110.1/24
+
+Fat模式下，下联LAN口IP地址为192.168.111.1/24；上联口IP地址为192.168.110.1/24
+
+2、无线设备登陆管理时的默认密码 ：
+
+AC：WEB登入用户名admin，密码admin。命令行没有默认密码
+
+胖AP：console&telnet密码是admin，没有默认enable密码
+
+           WEB登入用户名 admin，密码 admin
+
+瘦AP：console&telnet密码是ruijie，enable密码是apdebug
+
+           WEB登入用户名 admin，密码 admin
