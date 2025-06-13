@@ -1,0 +1,11 @@
+海康威视综合安防管理平台               admin/Abc123++
+
+海康威视群组对讲服务配置平台            admin/12345
+
+海康威视联网网关                      admin/12345
+
+海康威视流媒体                        admin/12345
+
+hikvision (ssh)                     admin/12345
+
+Haivision Makito X Decoder (web)    admin/manager

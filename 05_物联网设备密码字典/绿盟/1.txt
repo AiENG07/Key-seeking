@@ -1,0 +1,31 @@
+绿盟安全审计系统
+账号：
+1、        weboper
+
+2、        webaudit
+
+3、        conadmin
+
+4、        admin
+
+5、        shell
+密码：
+1、        weboper
+
+2、        webaudit
+
+3、        conadmin
+
+4、        admin
+
+5、        shell
+
+绿盟产品
+账号：
+1、        nsfocus123
+
+2、        nsf0cus
+密码：
+1、        nsfocus123
+
+2、        nsf0cus

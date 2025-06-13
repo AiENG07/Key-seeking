@@ -1,0 +1,9 @@
+浪思交接机
+账号：admin/inspur
+密码：inspur123/inspur
+
+浪思ac
+admin/admin.01
+
+浪思路由器
+admin/admin

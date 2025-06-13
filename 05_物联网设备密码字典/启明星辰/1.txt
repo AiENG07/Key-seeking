@@ -1,0 +1,19 @@
+天阗入侵检测与管理系统 V7.0
+Admin/venus70
+Audit/venus70
+adm/venus70
+
+天阗入侵检测与管理系统 V6.0
+Admin/venus60
+Audit/venus60
+adm/venus60
+
+天清汉马usg防火墙
+admin/fw.admin
+admin/venus.fw
+
+天清汉马usg防火墙
+Audit/venus.audit
+
+天清汉马usg防火墙
+useradmin/venus.user

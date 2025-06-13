@@ -25,14 +25,18 @@ def generate_birthday_dict(start_year=1900, end_year=2024):
 
     return birthday_list
 
+input_year = int(input("请输入起始年份（默认为1900）："))
+input_end_year = int(input("请输入结束年份（默认为2024）："))
 # 生成生日字典
-birthdays = generate_birthday_dict()
+birthdays = generate_birthday_dict(input_year, input_end_year)
 
 # 打印出生日字典中的一些条目
 for birthday in birthdays[-10:]:  # 打印前10个生日
     print(birthday)
 
+dictname = str(input_year) + '-' +str(input_end_year)
+
 # 可以根据需要将列表保存到文件中
-# with open('./birthdays_password.txt', 'w') as file:
-#     for birthday in birthdays:
-#         file.write(f"{birthday}\n")
+with open(f'./{dictname}_birthdays.txt', 'w') as file:
+    for birthday in birthdays:
+        file.write(f"{birthday}\n")

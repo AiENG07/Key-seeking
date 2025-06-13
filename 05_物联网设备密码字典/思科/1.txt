@@ -1,0 +1,19 @@
+CISCO路由器
+账号：admin/Cisco
+密码：admin/Cisco
+
+CISCO传输控制器ONS15454版本4.1.x和4.5
+CISCO15/密码为空
+
+ONS15454版本4.6.x和以上
+CISCO15/otbu+1
+
+Cisco -  Cisco IDS
+root/attack
+
+Cisco -  CiscoWorks 2000
+账号：guest/admin
+密码：密码为空/cisco
+
+Cisco -  ConfigMaker
+cmaker/cmaker

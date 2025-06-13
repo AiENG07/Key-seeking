@@ -1,0 +1,7 @@
+锐捷ruijie防火墙
+admin        admin/firewall/admin123
+audit        audit123
+useradmin    useradmin
+
+锐捷WALL1600下一代防火墙
+admin/firewall

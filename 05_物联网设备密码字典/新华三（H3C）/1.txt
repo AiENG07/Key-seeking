@@ -1,0 +1,59 @@
+H3C iMC
+admin/admin
+
+H3C SecPath系列
+admin/admin
+
+H3C SecPath 运维审计系统
+system/admin
+
+H3C S5120-SI
+test/123
+
+H3C智能管理中心
+admin/admin
+
+H3C ER3100
+admin/adminer3100
+
+H3C ER3200
+admin/adminer3200
+
+H3C ER3260
+admin/adminer3260
+
+H3C
+账号：admin/h3c
+密码：adminer/admin/h3capadmin/h3c
+
+H3C ER2100n 路由器
+账号：admin
+密码：admin/123456
+
+H3C WX1800H系列无线控制器
+admin/admin
+
+H3C ER2100n 路由器
+账号：admin
+密码：123456/admin
+
+H3C WX2500H-5500H系列无线控制器
+admin/admin
+
+H3C AC插卡系列
+admin/admin
+
+H3C WAC/ MSG/ WiNet/ WBC系列无线控制器
+admin/admin
+
+H3C SPM系列智能PoE管理器
+admin/admin
+
+H3C WA5600/ 5300/ 4600/ 4300系列无线接入点
+admin/h3capadmin
+
+H3C LA4300系列无线接入点
+admin/h3capadmin
+
+H3C WAP723/ 722/ 712系列无线接入点
+admin/h3capadmin

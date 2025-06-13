@@ -1,0 +1,21 @@
+网御星云安全网关
+administrator/leadsec@7766
+
+网御上网行为管理系统
+admin/leadsec
+
+网御漏洞扫描系统
+leadsec/leadsec
+
+网御WAF集中控制中心(V3.0R5.0)
+账号：admin/audit/adm
+密码：leadsec.waf
+
+网御入侵检测系统V3.2.72.0
+账号：adm/admin 密码：leadsec32
+
+网御安全日志审计管理系统
+useradmin/leadsec.useradmin
+
+网御安全日志审计管理系统
+auditor/leadsec.auditor

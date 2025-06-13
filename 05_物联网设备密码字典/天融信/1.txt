@@ -1,0 +1,11 @@
+天融信防火墙NGFW4000
+superman/talent
+
+天融信数据库审计系统
+superman/talent
+
+天融信 Reporter
+guest/guest*PWD
+
+TopAudit日志审计系统
+superman/talent

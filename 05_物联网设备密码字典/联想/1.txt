@@ -1,0 +1,13 @@
+联想网御入侵检测系统IDS:root/111111
+
+联想网御入侵检测系统IDS:admin/admin123
+
+联想网御:administrator/administrator
+
+网御事件服务器:admin/admin123
+
+联想网御防火墙PowerV:administrator/administrator
+
+联想网御入侵检测系统:lenovo/default
+
+网络卫士入侵检测系统:admin/talent
