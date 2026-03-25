@@ -1,0 +1,42 @@
+#深信服通用
+sangfor sangfor
+sangfor sangfor@2018
+sangfor sangfor@2019
+
+#深信服 EDR
+root edr@sangfor
+admin admin
+
+#深信服 AD
+sangfor dlanrecover
+
+#深信服 AD3.6/AD3.9/AD5.1
+admin admin
+
+#深信服 WAC (WNS V2.6)
+admin admin
+
+#深信服 VPN
+Admin AdminAdmin
+admin admin
+
+#深信服 IPSEC VPN SSL (5.5)
+Admin Admin
+
+#深信服 AC 6.0
+admin admin
+
+#SANGFOR防火墙
+admin sangfor
+
+#深信服 AF (NGAF V2.2)
+admin sangfor
+
+#深信服 NGAF下一代应用防火墙 (NGAF V4.3)
+admin admin 
+
+#深信服上网行为管理设备数据中心
+Admin/密码为空
+
+#网神防火墙
+firewall firewall

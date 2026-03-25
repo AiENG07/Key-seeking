@@ -1,0 +1,24 @@
+# 锐捷ruijie防火墙
+admin admin
+admin firewall
+admin admin123
+audit audit123
+useradmin useradmin
+
+# 锐捷WALL1600下一代防火墙
+admin firewall
+
+# AP320I、AP330I、AP530I、Wall-AP
+admin admin
+
+# AP220E、AP220E（M）、AP220SH、AP220I、AP620H
+默认没有用户名密码
+
+# AP120-W
+admin admin
+
+# AP110-W
+admin admin
+
+# WS3302、WS5302、WS5504、WS5708
+admin admin

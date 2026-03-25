@@ -1,0 +1,37 @@
+# 华为交换机
+admin   admin@huawei
+admin   admin@huawei.com
+
+# 华为防火墙
+telnetuser  telnetpwd
+ftpuser  ftppwd
+
+# 华为USG6000系列
+admin    audit-admin
+admin    Admin@123
+
+# 华为SMARTAX MT800
+admin    admin
+
+# 华为AR-111S路由器
+admin    Admin@huawei
+
+# 华为AR6120-S路由器
+admin    admin@huawei.com
+
+# 华为交接机
+admin    admin@huawei.com
+
+# 华为防火墙usg2100
+admin    Admin@123
+
+# 华为ap
+admin    admin@huawei.com
+
+# 华为无线ac6605
+admin    admin@huawei.com
+
+华为
+root    Huawei12#$
+root    FusionSphere12
+root    Huawei@CLOUD8!

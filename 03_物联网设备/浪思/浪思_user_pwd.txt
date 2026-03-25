@@ -1,0 +1,12 @@
+#浪思交接机
+admin inspur123
+admin inspur
+inspur inspur123
+inspur inspur
+
+
+#浪思ac
+admin admin.01
+
+#浪思路由器
+admin admin
